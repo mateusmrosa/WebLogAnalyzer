@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\bin\Debug\net6.0\WebLogAnalyzer.exe
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\bin\Debug\net6.0\WebLogAnalyzer.deps.json
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\bin\Debug\net6.0\WebLogAnalyzer.runtimeconfig.json
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\bin\Debug\net6.0\WebLogAnalyzer.dll
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\bin\Debug\net6.0\WebLogAnalyzer.pdb
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.AssemblyInfo.cs
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.dll
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\refint\WebLogAnalyzer.dll
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.pdb
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\WebLogAnalyzer.genruntimeconfig.cache
+C:\Users\mateu\Documents\projetos\c#\WebLogAnalyzer\WebLogAnalyzer\WebLogAnalyzer\obj\Debug\net6.0\ref\WebLogAnalyzer.dll
